@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/btnThemtacgia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btnThemtacgia" />
+
+    <Button
+        android:id="@+id/btnXemdstacgia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btnXemdstacgia" />
+
+    <Button
+        android:id="@+id/btnQuanlysach"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btnQuanlysach" />
+
+</LinearLayout>
